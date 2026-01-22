@@ -1,0 +1,3 @@
+Nombre: Jair Jecsan Flores Rodriguez
+No. Contro: 220120146
+Lenguaje de programación: C++/Python
