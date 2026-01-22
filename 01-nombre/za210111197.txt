@@ -1,0 +1,3 @@
+Nombre: Carlos Emiliano Rodriguez Gonzalez
+No. Contro: 210111197
+Lenguaje de programación: C++/Python
